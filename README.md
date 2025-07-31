@@ -3,7 +3,6 @@
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python%203.10-blue.svg)](https://www.python.org/)
 [![Data Science Bootcamp](https://img.shields.io/badge/Proyecto-Bootcamp-green)](#)
 [![Status](https://img.shields.io/badge/Status-Completo-brightgreen)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
@@ -43,4 +42,30 @@ Analizar datos de videojuegos desde 1980 hasta 2016 para responder preguntas cla
 ---
 
 ## 📁 Estructura del proyecto
+
+videogame-sales-analysis/
+
+├── Analisis_de_Mercado_de_Videojuegos.py # Código fuente 
+
+├── README.md # Este archivo
+
+├── requirements.txt # Dependencias del proyecto
+
+└── .gitignore # Archivos ignorados en control de versiones
+
+---
+
+## 🧠 Conclusiones clave
+
+- **Norteamérica** prefiere shooters y plataformas específicas (como X360 y PS2), mientras que **Japón** favorece los juegos de rol (RPG).
+- Las calificaciones de usuarios no siempre se correlacionan con ventas elevadas.
+- Existen diferencias estadísticamente significativas entre géneros favoritos por región.
+
+---
+
+## 👨‍💻 Autor
+
+**Axel López**  
+📫 [LinkedIn](https://www.linkedin.com/in/axel-lópez-linares/)  
+🎯 Proyecto de portafolio - Bootcamp de Ciencia de Datos
 
